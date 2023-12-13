@@ -1,6 +1,6 @@
 # Seed the database an ASP.NET Core MVC app
 
->Seed the database **Create** a new class named **SeedData** in the Models folder. Replace the generated code with the following: If there are any products in the database, the seed initializer returns and no products are added. The app shows the seeded data. This guide is compiled based on [Get started with ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code) by `Microsoft`.
+>This tutorial teaches how to seed the database, create a new class named `SeedData` in the Models folder. If there are any products in the database, the seed initializer returns and no products are added. This guide is compiled based on [Get started with ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code) by `Microsoft`.
 
 In this section:
 
