@@ -13,7 +13,7 @@ Before coming to this guide, please refer to [Add a new field and add validation
 Create a new class named `DbInitializer` in the `Data` folder. Replace the generated code with the following:
 
 ```c#
-namespace MvcCourse.Data
+namespace CourseManagement.Data
 {
     public static class DbInitializer
     {
