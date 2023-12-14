@@ -92,3 +92,5 @@ The app shows the seeded data.
 ![Seed Data](resources/seed-data.png)
 
 Above are all instructions on seed the database an ASP.NET Core MVC app, refer to the [Work with a database in an ASP.NET Core MVC app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/working-with-sql?view=aspnetcore-8.0&tabs=visual-studio-code).
+
+Next let's [Use AutoMapper in MVVM Pattern ASP.NET Core](https://github.com/NguyenPhuDuc307/mvvm-design-pattern).
