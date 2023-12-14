@@ -1,10 +1,10 @@
 # Seed the database an ASP.NET Core MVC application
 
->This tutorial teaches how to seed the database, create a new class named `SeedData` in the Models folder. If there are any products in the database, the seed initializer returns and no products are added. This guide is compiled based on [Get started with ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code) by `Microsoft`.
+>This tutorial teaches how to seed the database, create a new class named `DbInitializer` in the Models folder. If there are any products in the database, the seed initializer returns and no products are added. This guide is compiled based on [Get started with ASP.NET Core MVC](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio-code) by `Microsoft`.
 
 In this section:
 
-- Seed the database Create a new class named SeedData in the Models folder.
+- Seed the database Create a new class named DbInitializer in the Models folder.
 
 Before coming to this guide, please refer to [Add a new field and add validation to an ASP.NET Core MVC app](https://github.com/NguyenPhuDuc307/add-field-and-validation).
 
