@@ -72,7 +72,7 @@ namespace CourseManagement.Data
 
 ## Add the seed initializer
 
-Update `Program.cs` with the following code:
+Add a seed initializer, let's add the following initialization code in `Program.cs`:
 
 ```c#
 using (var scope = app.Services.CreateScope())
