@@ -6,7 +6,7 @@ In this section:
 
 - Seed the database Create a new class named DbInitializer in the Models folder.
 
-Before coming to this guide, please refer to [Part 3: Add a new field and add validation to an ASP.NET Core MVC app](https://github.com/NguyenPhuDuc307/add-field-and-validation).
+Before coming to this guide, please refer to [Add a new field and add validation to an ASP.NET Core MVC app](https://github.com/NguyenPhuDuc307/add-field-and-validation).
 
 ## Seed the database
 
@@ -93,4 +93,4 @@ The app shows the seeded data.
 
 Above are all instructions on seed the database an ASP.NET Core MVC app, refer to the [Work with a database in an ASP.NET Core MVC app](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/working-with-sql?view=aspnetcore-8.0&tabs=visual-studio-code).
 
-Next let's [Part 5: Use AutoMapper in MVVM Pattern ASP.NET Core](https://github.com/NguyenPhuDuc307/mvvm-design-pattern).
+Next let's [Use AutoMapper in MVVM Pattern ASP.NET Core](https://github.com/NguyenPhuDuc307/mvvm-design-pattern).
